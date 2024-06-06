@@ -4,6 +4,12 @@ Project for my second semester in AP computer science. I tried to re-create the 
 I had messed with some experiments in 3d, but this was the first actual 3d game I have made. For drawing in 3d, transformation matrices about the prinicpal axis
 are used to rotate points. Since most objects don't leave the plane, a lot of the game logic actually just functions in 2d.
 
+# Build
+
+* run 'package' target
+* cd \<project root\>/target
+* java -jar battlezone-1.0.jar
+
 # Gameplay video
 
 Click the image below to view a youtube video of the program
